@@ -1,0 +1,5 @@
+Construa um algoritmo que leia dois números inteiros, calcule a soma e a diferença entre eles e mostre os dois resultados.|0,1,6
+Construa um algoritmo que leia um valor real (em Kg), converta-o num outro valor real (em gramas) e depois mostre o valor em gramas.|0,1,6
+Construa um algoritmo que leia os valores dos lados de um retângulo, calcule a área deste e depois mostre-a.|0,1,6
+Construa um algoritmo que leia o preço base de um produto (valor real) e uma taxa de IVA (valor inteiro), calcule o preço final do produto e depois mostre-o.|0,1,6
+Construa um algoritmo que leia o raio de um círculo e calcule a sua área e depois mostre-a.|0,1,6

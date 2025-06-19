@@ -1,0 +1,6 @@
+Construa um algoritmo para calcular a soma dos N primeiros números naturais pares, onde N é introduzido pelo utilizador, e mostre o resultado da soma (usando um FOR e um IF).|0,5,2,1,6
+Construa um algoritmo para ler uma sequência de inteiros positivos (ou seja, termina com a introdução de um valor negativo) e calcule a sua soma.|4,0,2,1,6
+Construa um algoritmo para determinar a soma dos dígitos de um número inteiro positivo. O programa deve funcionar só para números positivos.|0,2,3,1,6
+Construa um algoritmo para calcular o fatorial de um número inteiro positivo. O programa deve funcionar só para números positivos.|0,2,5,1,6
+Construa um algoritmo para determinar se um número inteiro positivo é capicua (por exemplo: 202 é capicua). O programa deve funcionar só para números positivos.|0,2,5,2,6
+Construa um algoritmo para determinar se um dado número inteiro positivo é primo. O programa deve funcionar só para números positivos.|0,2,5,1,6
